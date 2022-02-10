@@ -3,7 +3,7 @@
         <div class="container py-lg-3">
             <div class="row text-center">
                 <div class="header-section col-lg-12">
-                    <h3 class='bottomUnderline'>Enquire Now</h3>
+                    <h3 class='bottomUnderline'>Enquire Now</h3>&nbsp;
                 </div>
                 <div class="main-midd-2 col-lg-6 col-md-8 mx-auto">
                     <form action="#" onsubmit="return generateEnquiry(this)" method="post">

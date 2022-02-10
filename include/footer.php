@@ -14,7 +14,7 @@
 			  </div>
             </div>
            
-            <div class="col-lg-5 col-md-6 mt-lg-0 mt-5 sub-one-left">
+            <div class="col-lg-5 mt-5 sub-one-left">
               <h6>Contact </h6>
               <div class="column2">
                 <div class="href1"><span class="fa fa-envelope-o" aria-hidden="true"></span><a href="mailto:biyanisjeeneet@gmail.com">info@biyanissuper30.com</a>

@@ -8943,6 +8943,7 @@ button.owl-next {
   grid-gap: 20px;
   border: 1px solid #eee; 
   border-radius: 10px;
+  box-shadow: 0px 0px 7px 0px #bdbdbd;
  }
 .w3l-about3 .feature-gd:hover{
 	box-shadow: 0px 0px 10px 0px #888888;

@@ -7,7 +7,7 @@
 			<div style='background: #204d7d  ;border-bottom: 1px solid #fff;padding: 10px 0px;'>
 				<div class='container text-right'>
 					<ul class="social-icons hideInMobile" style='border: none;'>
-						<li><a target='_blank' style='color:#fff;' href="./assets/pdf/biyani super 30 brochure c2c version 18 low res.pdf"><span class="fa fa-download" aria-hidden="true"></span> Prospectus</a></li>
+						<li><a target='_blank' style='color:#fff;' href="./assets/pdf/Biyanis Brochure.pdf"><span class="fa fa-download" aria-hidden="true"></span> Prospectus</a></li>
 						<li><a href="tel:+91 8898-512-070" style='color:#fff;border-left: 1px solid #cfcfcf;padding-left: 25px;'><span class="fa fa-phone" aria-hidden="true"></span></a></li>
 						<li><a target='_blank' style='color:#fff;border-left: 1px solid #cfcfcf;padding-left: 25px;' href="https://api.whatsapp.com/send/?phone=918898512070&text=Hello+Biyani%27s&app_absent=0"><span class="fa fa-whatsapp" aria-hidden="true"></span></a></li>
 						<li><a target='_blank' style='color:#fff;border-left: 1px solid #cfcfcf;padding-left: 25px;' href="https://www.facebook.com/biyanissuper30/"><span class="fa fa-facebook" aria-hidden="true"></span></a></li>
@@ -20,7 +20,7 @@
 					<div class="social-icons hideInDesktop noMargin" style="border: none;padding: 4px 0px;">
 						<span><a href="tel:+91 8898-512-070" style='color:#fff;border-right: 1px solid #cfcfcf;padding:0px 15px;'><span class="fa fa-phone" aria-hidden="true"></span></a></span>
 						<span><a target='_blank' style='color:#fff;border-right: 1px solid #cfcfcf;padding:0px 15px;' href="https://api.whatsapp.com/send/?phone=918898512070&text=Hello+Biyani%27s&app_absent=0"><span class="fa fa-whatsapp" aria-hidden="true"></span></a></span>
-						<span><a target='_blank' style='color:#fff;padding:0px 15px;' href="./assets/pdf/biyani super 30 brochure c2c version 18 low res.pdf"><span class="fa fa-download" aria-hidden="true"></span></a></span>
+						<span><a target='_blank' style='color:#fff;padding:0px 15px;' href="./assets/pdf/Biyanis Brochure.pdf"><span class="fa fa-download" aria-hidden="true"></span></a></span>
 						
 						<span data-toggle="modal" data-target="#enquireModal"><a style='font-weight: bold;color:#fff;border-left: 1px solid #cfcfcf;padding-left: 15px;animation: blinker 1s linear infinite;' href='#'>Enquiry & Admission	</a></span>
 					</div>
@@ -28,8 +28,8 @@
 			</div>
 			<div class="container">
 				<nav class="navbar navbar-expand-lg navbar-light py-0 px-0" style='border-bottom: 2px solid #c52c4d;'>
-					<a class="navbar-brand" href="index.php">
-						<img class='logoImage' src="assets/images/biyanissuper30-logo-wide.png" alt="Biyani's Super 30" title="Biyani's Super 30" />
+					<a class="navbar-brand" href="index.php" style='max-width: 75%;'>
+						<img class='logoImage' src="assets/images/biyanissuper30-logo.png" alt="Biyani's Super 30" title="Biyani's Super 30" />
 					</a>
 					<div class="collapse navbar-collapse hideInMobile" id="navbarSupportedContent" style='justify-content: flex-end;' >
 						<div class="phone" style='margin-right: 1px;'>
