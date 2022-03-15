@@ -11,7 +11,7 @@
   <!-- web fonts -->
 
   <!-- Template CSS -->
-  <link rel="stylesheet" href="assets/css/style-starter.css?138">
+  <link rel="stylesheet" href="assets/css/style-starter.css?139">
   <link rel="stylesheet" href="assets/css/font-icons.css">
   <link rel="shortcut icon" href="./assets/images/fav.png">
   <!-- Global site tag (gtag.js) - Google Analytics -->

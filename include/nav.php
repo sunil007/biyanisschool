@@ -69,6 +69,9 @@
 							<li class="nav-item <?php if($curPageName == "ourbranch.php") echo 'active'; ?>">
 								<a class="nav-link" href="ourbranch.php">Our Branches</a>
 							</li>
+							<li class="nav-item <?php if($curPageName == "digital-library.php") echo 'active'; ?>">
+								<a class="nav-link" href="digital-library.php">Digital Library</a>
+							</li>
 							<li class="nav-item <?php if($curPageName == "testimonial.php") echo 'active'; ?>">
 								<a class="nav-link" href="testimonial.php">Testimonials</a>
 							</li>

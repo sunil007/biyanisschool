@@ -7665,7 +7665,7 @@ li.nav-item:hover .nav-link::before {
 
 .w3l-header .navbar-light .navbar-nav .nav-link {
   color: #313437;
-  font-size: 14px;
+  font-size: 13px;
   font-weight: 400;
   text-transform: uppercase; 
   font-weight:bold;
@@ -7711,7 +7711,7 @@ li.nav-item:hover .nav-link::before {
 
 @media (max-width: 1025px){
 	.w3l-header .navbar-light .navbar-nav .nav-link{
-		font-size: 14px;
+		font-size: 13px;
 	}
 	.w3l-header li.nav-item{
 		margin: 0px 0px;
