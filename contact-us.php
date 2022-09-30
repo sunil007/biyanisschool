@@ -26,11 +26,13 @@
             </div>
             <div class="cont-right">
               <h6>Call us:</h6>
-              <p><a class="text-dec-none" href="tel:+91 7208-888694"> +91 7208-888694 Bhayandar (West)</a></p>
-              <p><a class="text-dec-none" href="tel:+91 7208-888695"> +91 7208-888695 Mira Road (Kanakia)</a></p>
-              <p><a class="text-dec-none" href="tel:+91 7208-888696"> +91 7208-888696 Kandivali (Thakur Village)</a></p>
-              <p><a class="text-dec-none" href="tel:+91 9136-382299"> +91 9136-382299 Mira Road (Shrishti)</a></p>
-              <p><a class="text-dec-none" href="tel:+91 7208-888695"> +91 7208-888695 Kandivali (Mahavir Nagar)</a></p>
+              <p><a class="text-dec-none" href="tel:+91 7208-888695"> +91 7208-888695 Mira Road (Kanakia Road)</a></p>
+			  <p><a class="text-dec-none" href="tel:+91 9136-382299"> +91 9136-382299 Mira Road (Shrishti Complex)</a></p>
+			  <p><a class="text-dec-none" href="tel:+91 7208-888694"> +91 7208-888694 Bhayandar (West)</a></p>
+			  <p><a class="text-dec-none" href="tel:+91 7208-888696"> +91 7208-888696 Kandivali East (Thakur Village)</a></p>
+              <p><a class="text-dec-none" href="tel:+91 7208-888695"> +91 7208-888695 Kandivali West (Mahavir Nagar)</a></p>
+              <p><a class="text-dec-none" href="tel:+91 7710-050171"> +91 7710-050171 Goregoan East (Gokuldham)</a></p>
+              <p><a class="text-dec-none" href="tel:+91 9136-319824"> +91 9136-319824 Thane West (Hiranandani Estate)</a></p>
 
             </div>
           </div>
